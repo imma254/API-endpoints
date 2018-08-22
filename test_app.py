@@ -9,7 +9,7 @@ BAD_ITEM_URL = '{}/5'.format(BASE_URL)
 GOOD_ITEM_URL = '{}/3'.format(BASE_URL)
 
 
-class TestSolApi(unittest.TestCase):
+class TestConfig(unittest.TestCase):
 
     def setUp(self):
         self.backup_qstns = deepcopy(app.questions)
