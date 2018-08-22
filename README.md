@@ -5,7 +5,7 @@
 ## Overview
 Creation of the website's flask API endpoints.
 
-## Description of Task to be completed? **
+## Description of Task to be completed? 
 Setup API and test endpoints that do the following using data structures:
 - Get all questions.
 - Get a question.
