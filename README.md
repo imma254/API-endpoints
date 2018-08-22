@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/imma254/API-endpoints.svg?branch=master)](https://travis-ci.org/imma254/API-endpoints)
 
 
-## PR Objective
+## Overview
 Creation of the website's flask API endpoints.
 
 ## Description of Task to be completed? **
