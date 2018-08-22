@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, abort, make_response, request, render_template
+from flask import Flask, jsonify, abort, make_response, request
 
 NOT_FOUND = 'DATA Not found'
 BAD_REQUEST = 'Bad request'
@@ -13,12 +13,12 @@ questions = [
     },
     {
         'id': 2,
-        'title': 'Method order resolving in multiple and multilevel inheritance in python while calling the constructor.',
+        'title': 'Method order resolving',
         'votes': 300,
     },
     {
         'id': 3,
-        'title': 'organizing android + firebase project for dev staging production',
+        'title': 'organizing android',
         'votes': 20,
     },
 ]
