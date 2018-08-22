@@ -1,0 +1,7 @@
+[
+  "test_app.py::TestConfig::test_get_all_questions",
+  "test_app.py::TestConfig::test_get_one_question",
+  "test_app.py::TestConfig::test_post_answer",
+  "test_app.py::TestConfig::test_post_qstn",
+  "test_app.py::TestConfig::test_qstn_not_exist"
+]
