@@ -36,8 +36,9 @@ User can edit a question	| /api/v1/questions/question_id | PUT
 - Test the app
 `$ python test_app.py`
 
-** Any background context you want to provide? **
-Data structures
+## Any background context you want to provide?
+- Data structures
+- Flask
 
 ## Relevant Pivotal Tracker Stories
  - #159925230
