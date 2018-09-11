@@ -21,6 +21,11 @@ questions = [
         'title': 'organizing android',
         'votes': 20,
     },
+    {
+        'id': 4,
+        'title': 'organizing flask',
+        'votes': 10,
+    }
 ]
 
 answers = [
